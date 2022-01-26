@@ -26,6 +26,7 @@ public class ReadData
 				{
 			String	line =bf.readLine();
 			System.out.println(line);
+			System.out.println("test");
 				}
 			
 			}
